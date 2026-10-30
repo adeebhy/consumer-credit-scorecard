@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+joblib
+fastapi
+uvicorn
+httpx
+pydantic
+nbformat
+nbclient
+ipykernel
